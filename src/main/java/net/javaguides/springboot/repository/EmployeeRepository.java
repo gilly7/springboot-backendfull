@@ -6,9 +6,7 @@ import net.javaguides.springboot.model.Employee;
 
 public interface EmployeeRepository extends JpaRepository<Employee, Long> {
 	// all crud database methods
-	
-	
-	
+		
 	
 
 }
